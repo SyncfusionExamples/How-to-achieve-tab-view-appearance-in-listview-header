@@ -11,8 +11,8 @@
     <AssemblyName>Header_Footer.UWP</AssemblyName>
     <DefaultLanguage>en-US</DefaultLanguage>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
-    <TargetPlatformVersion>10.0.16299.0</TargetPlatformVersion>
-    <TargetPlatformMinVersion>10.0.16299.0</TargetPlatformMinVersion>
+    <TargetPlatformVersion>10.0.17763.0</TargetPlatformVersion>
+    <TargetPlatformMinVersion>10.0.17763.0</TargetPlatformMinVersion>
     <MinimumVisualStudioVersion>14</MinimumVisualStudioVersion>
     <EnableDotNetNativeCompatibleProfile>true</EnableDotNetNativeCompatibleProfile>
     <FileAlignment>512</FileAlignment>
@@ -148,19 +148,10 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Syncfusion.Xamarin.Core">
-      <Version>16.4.0.46</Version>
-    </PackageReference>
-    <PackageReference Include="Syncfusion.Xamarin.DataSource">
-      <Version>16.4.0.46</Version>
-    </PackageReference>
-    <PackageReference Include="Syncfusion.Xamarin.GridCommon">
-      <Version>16.4.0.46</Version>
-    </PackageReference>
     <PackageReference Include="Syncfusion.Xamarin.SfListView">
-      <Version>16.4.0.46</Version>
+      <Version>18.4.0.43</Version>
     </PackageReference>
-    <PackageReference Include="Xamarin.Forms" Version="2.5.1.527436" />
+    <PackageReference Include="Xamarin.Forms" Version="4.5.0.617" />
     <PackageReference Include="Microsoft.NETCore.UniversalWindowsPlatform" Version="6.0.6" />
   </ItemGroup>
   <ItemGroup>
